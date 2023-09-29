@@ -1,0 +1,5 @@
+api_secret2 = '1c3010f1d24b2bdc91042c28926ac17f36a99b22f0fe22117b23e2bce1810737'
+api_key2 = 'fb1f66627ce1dc82736b6bb897448735ec02edc93739d9156bf1d47d58d0bc6d'
+
+api_secret = '6r6OtaF1AbvNsKfxrElFvYjzHjDTWzcZGouWrQWDHqH0aPPkE8OqCjjD2DDital9'
+api_key = 'YvH7L3VgJJRw42XPyHZhlxkiK30kgvMbvOYN9hdKasKiUYSw0ZVhKfV1qi0ckIsX'
